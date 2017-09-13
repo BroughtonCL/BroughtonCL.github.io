@@ -1,7 +1,7 @@
 # Name
 George Broughton 
 ## About
-## Portfoilio
+## portfoilio (portfolio)
 ## Contact Me
 email (gbroughton@student.alamo.edu)
 
