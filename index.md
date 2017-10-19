@@ -6,4 +6,4 @@ George Broughton
 email (gbroughton at student dot alamo dot edu)
 ## [ Critique-Sheet]( Critique-Sheet)
 ## [Game-Critique-3] (Game-Critique-3)
-## [GDD] (GDD)
+## [GDD]  (GDD)
