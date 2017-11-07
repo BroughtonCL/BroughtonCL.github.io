@@ -9,4 +9,5 @@ email (gbroughton at student dot alamo dot edu)
 * [Game-Critique-3](Game-Critique-3.md)
 ## [GDD]
 * [GDD](GDD.md)
- ## [Test Case asignment] (Test_Case_3.md)(Test-_Case-_2.md) (TEST-Cases-_1.md)
+*[Test Case asignment] (Test_Case_3.md)(Test-_Case-_2.md) (TEST-Cases-_1.md)
+*[Game-Critique-5.md] (Game-Critique-5.md)
