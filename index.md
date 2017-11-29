@@ -14,4 +14,5 @@ email (gbroughton at student dot alamo dot edu)
 ## [Game-Critique-5.md]
 *[Game-Critique-5.md] (Game-Critique-5.md)
 ##[Test-Tools-Research.md](Test-Tools-Research.md)
+## Game Critique
 ##[game_critique_8](game_critique_8)
