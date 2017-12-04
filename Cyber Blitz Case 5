@@ -41,13 +41,12 @@
 | 9 | Click 'Quit' or press controller A | Exits the application | √ |			
 
 ## Overall Test Status:
-Passed tests as stated.
-Failed new requirement to reset to defaults when entering from game play - bug report submitted
+was able to load the menu from the pause mode, but help did not load. All other systems were good.
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | 07, Nov. 2017 | T. Womack | Passed tests as stated - failed new requirement |			
+| 1 | Dec /3/2017 | Gbroughton | Passed Test - Help menu didn't  load  |			
 | 2 | | | |			
 | 3 | | | |	
 
