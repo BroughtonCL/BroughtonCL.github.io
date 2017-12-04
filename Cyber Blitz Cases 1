@@ -102,11 +102,11 @@ The testing will occur in a class room environment using PCs running the Window 
 | 6 | Time == 0:00 | Display score and game over panel at end of match (Main Menu, and Play again) | √ |			
 
 ## Overall Test Status:
-Main Menu Cyber Blitz appears over all drop downs - minor bug
+The main menu appeared in proper format in all settings, as well as all displays as shown. Didnt find any bug.
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | 06, Nov. 2017 | T. Womack | Pass with minor bug (see above) |			
+| 1 | dec. 03, 2017 | G. Broughton III | passed all checks no bug found |			
 | 2 | | | |			
 | 3 | | | |	
