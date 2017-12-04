@@ -68,14 +68,9 @@
 | 16 | Avatar placed at start point | Avatar has immunity after 'resurrection' does not die if hit within 2 seconds after placement | √ |
 
 ## Overall Test Status:
-Passed all tests on SA NEONDOME arena
-Found bugs in Settings panel due to new required changes and not yet tested.
-Bug found - Unable to use controller on settings panel to navigate, set sound or close. HnP #430
-Bug found - Wrong (old) settings panel drops. HnP #431
-
+Unable to conduct controller test -as I dont have controller. Was able to do key board test. Character moved fine until you attempt to throw ball. Character freezes and ball disappears. Character stays in throw status-able to move but unable to pick up any balls. Level loaded and ran well. All SA NEODOME functions were able to run well and display all necessary functions.
 ## Run History:
 | # |	Run Date |	Run By |	Results |
-| --- | --- | --- | --- |
-| 1 | 11/25/17 | T. Womack | Passed this test, will fix bugs found out of this test's scope - HnP #430 & HnP #431 |			
+| --- | --- | 12/03/2017 | G. Broughton III| Level passed test but bugs in control.  |			
 | 2 | | | |			
 | 3 | | | |	
