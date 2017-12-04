@@ -67,17 +67,11 @@
 | 16 | Avatar placed at start point | Avatar has immunity after 'resurrection' does not die if hit within 2 seconds after placement | √ |
 
 ## Overall Test Status:
-Passed all tests on SONG SHU STREET Arena
-Found bugs in Settings panel due to new required changes and not yet tested.
-Bug found out of this test's scope - Unable to use controller on settings panel to navigate, set sound or close. HnP #430
-Bug found out of this test's scope - Wrong (old) settings panel drops. HnP #431
-Bug found out of this test's scope - Pause Panel does not allow navigation or button selection with the controller. HnP #432
-Bug found out of this test's scope - Unable to close Help panel with controller in arena scenes.  HnP #433
-
+Level loaded-but not able to throw ball, often stuck in idle mode. Pause function did not work, Overall test failed
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | 11/25/17 | T. Womack | Passed this test, will fix bugs found out of this test's scope - HnP: #430, #431, #432 & #433 |
+| 1 | 12/03/2017|G. Broughton III  | Test failed
 | 2 | | | |			
 | 3 | | | |	
 
