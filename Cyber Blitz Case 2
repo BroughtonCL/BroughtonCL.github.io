@@ -103,12 +103,12 @@ The testing will occur in a class room environment using PCs running the Window 
 
 ## Overall Test Status:
 Passed 
-CyberBlitz logo on main menu stays on top of drop down panels - minor bug
+Game was able to install on WIndows 10 system. The only minor bug was the ball selection was not able to be selected right away. 
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | 06, Nov. 2017 | T. Womack | Passed |			
+| 1 | dec 03, 2017 |G. Broughton III | Passed with minor bug at ball selection |			
 | 2 | | | |			
 | 3 | | | |	
 
