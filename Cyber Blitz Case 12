@@ -68,16 +68,12 @@
 | 16 | Avatar placed at start point | Avatar has immunity after 'resurrection' does not die if hit within 2 seconds after placement | √ |
 
 ## Overall Test Status:
-Passed all tests on LUMUS Arena
-Found bugs in Settings panel due to new required changes and not yet tested.
-Bug found - Unable to use controller on settings panel to navigate, set sound or close. HnP #430
-Bug found - Wrong (old) settings panel drops. HnP #431
-Bug found - Pause Panel does not allow navigation or button selection with the controller. HnP #432
-Bug found - Unable to close Help panel with controller in arena scenes.  HnP #433
+Passed all level tests on LUMUS Arena
+Control test and level failed-when attempting to throw ball, stuck in grab ball status. Attempting to throw the ball kept the ball in idle status. Glitch ball appeared in my hand while the actual ball was moving in court.
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | 11/25/17 | T. Womack | Passed this test, will fix bugs found out this test's of scope - HnP: #430, #431, #432 & #433 |
+| 1 |12/03/2017 | G. Broughton III  | Level passed- keyboard controls in level failed
 | 2 | | | |			
 | 3 | | | |	
