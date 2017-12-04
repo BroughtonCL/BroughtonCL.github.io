@@ -41,13 +41,12 @@
 | 9 | Click 'Quit' or press controller A | Exits the application | √ |			
 
 ## Overall Test Status:
-Passed tests as stated.
-Failed new requirement to reset to defaults when entering from game play - bug report submitted
+Able to load all settingds, all main menu components worked well. No bugs found.
 
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | 07, Nov. 2017 | T. Womack | Passed tests as stated |			
+| 1 | dec 03, 2017 | G. Broughton III | Passed - no bugs found |			
 | 2 | | | |			
 | 3 | | | |	
 
