@@ -31,5 +31,5 @@ touch screen. Very easy to line up and release. Problem: Screen too sensitive an
 None that were found
 
 # Final Thoughts
-I really enjoy this game. But it just keeps going pon with no end in sight. But I will keep playing!!!!
+I really enjoy this game. But it just keeps going pon with no end in sight. The one down fall is that you are only awarded 5 lives and need to wait for lives to replinish. Lives and extra bubble blasters are available, for purchase. That can be a little irritating for a "free" game. I understand they need to make money and gettingit from thew ads may not be enough. Despite this, as long at there are bubbles to break, I will keep playing!!!!
 
