@@ -15,6 +15,7 @@ email (gbroughton at student dot alamo dot edu)
 ## Game Critique
 [game_critique_8](game_critique_8.md)
 
+ [Game-Critique 4](Game-Critique-4.md)
  [Game-Critique-3](Game-Critique-3.md)
  
  ## Cyber Blitz Test Case 
