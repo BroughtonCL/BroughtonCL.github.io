@@ -16,9 +16,13 @@ We will only  1 Crictal  error , two High error and 5 Mild errors
 ## Section 2 
 # Test Team
 Micheal  - Tester
+
 Lea -Tester
+
 Christopher-Tester Lead 
+
 Robert-Test Developer 
+
 # Budgets 
 3 months  with reports and updates very two weeks.
 # MileStones
