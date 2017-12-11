@@ -15,14 +15,26 @@ In house Developer and whitebox. The  Game  will be targeting  the Impulse and c
 We will only  1 Crictal  error , two High error and 5 Mild errors 
 ## Section 2 
 # Test Team
-Max: Test Manager
-
-Annie: Tester
-
-James: Developer in Test
+Micheal  - Tester
+Lea -Tester
+Christopher-Tester Lead 
+Robert-Test Developer 
 # Budgets 
+3 months  with reports and updates very two weeks.
 # MileStones
+Avatar Controls and  with the complex settings . Moving through environment.  Attack and block Freatures .
 # Test Description
+|Test Suite     |Button    |Function                                               |
+|---------------|:--------:|-------------------------------------------------------|
+|Basic Controls |X(0)   |Jump: The fireball jumps up to its maximum height, then begins to drift slowly down towards the ground.|
+|Basic Controls |O(1) or [](2)|Slam: Crash down to ground rapidly and then explode, igniting nearby blocks. If already on the ground, just explodes. |
+|Basic Controls | ^(3) |Jump and Top Down View: The fireball jumps, but the camera view tilts to give a top down view. Press again to cancel top down view. (Toggles top down view). |
+|Basic Controls | > (Pause)| Pause/Map |
+|Basic Controls | (reset) | Hold for 0.5 seconds to begin the current field again |
+|Advanced Controls | L1 |Roll Left: Move Sideways to Left i.e. strafe left |
+|Advanced Controls | R1 |Roll Right: Move Sideways to Right i.e. strafe right |
+|Advanced Controls | L2 |Turn Left: Turn 90 degrees left |
+|Advanced Controls | R2 |Turn Right: Turn 90 degrees right |
 # Testing 
 
 
