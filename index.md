@@ -6,7 +6,7 @@ George Broughton
 email (gbroughton at student dot alamo dot edu)
 ## [ Critique-Sheet]( Critique-Sheet.md)
 ## [FireBall game desgin Document]
-* [GDD](GDD.md)
+* [Fire_ball_Game ](Fire_ball_Game Document.md)
 ## [Test Case asignment]
 [Test Case asignment] (Test_Case_3.md)(Test-_Case-_2.md) (TEST-Cases-_1.md)
 ## [Game-Critique-5.md]
