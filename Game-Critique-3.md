@@ -27,9 +27,7 @@ By fighting the same color robot and enemy, the bot inflicts more damage, thus g
 ## Playability
  Medicore 
 # Single
-
-Single offer story mode. In story there are mini challenges that allow you to gain more exp can level up the robots  and  weaponry   
--
+Single offer story mode. In story there are mini challenges that allow you to gain more exp can level up the robots  and  weaponry.
 # Multiplayer 
 The game  offers  no multiplayer freatures.
 
