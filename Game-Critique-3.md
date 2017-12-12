@@ -26,7 +26,8 @@ Each corebot is a different color and can battle enemies and level up.
 By fighting the same color robot and enemy, the bot inflicts more damage, thus gaining more points and upgrades.
 ## Playability
 ### Single/Multiplayer
-# Single 
+# Single
+
 Single offer story mode. In each story mode are mini challenges that allow you to gain more point and can level up robots and weaponry.
 -
 # Multiplayer 
